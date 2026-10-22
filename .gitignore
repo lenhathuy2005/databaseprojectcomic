@@ -1,0 +1,4 @@
+# Local database exports can contain accounts and authentication tokens.
+comic_cultivation_system (2).sql
+*.dump
+*.backup
